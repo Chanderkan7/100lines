@@ -1,0 +1,1 @@
+This string is entered directly into the ofstream object File8

@@ -1,0 +1,2 @@
+This is fourth file and this line is pused directly into the ofstream object.
+File4

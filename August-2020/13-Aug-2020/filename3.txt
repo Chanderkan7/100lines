@@ -1,0 +1,2 @@
+This is third file and this string is entered to ofstream object directly. 
+File3

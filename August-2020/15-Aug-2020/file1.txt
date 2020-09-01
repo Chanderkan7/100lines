@@ -1,0 +1,1 @@
+0x488144This is directly put into fileobject. Hello To this file!

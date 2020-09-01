@@ -1,0 +1,2 @@
+This line is inserted directly into ofstream object. 
+File6

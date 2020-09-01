@@ -1,0 +1,2 @@
+This string is directly inserted into ofstream object.
+File New

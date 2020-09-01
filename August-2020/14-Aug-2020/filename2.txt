@@ -1,0 +1,2 @@
+This is second file and entry is made directly to ofstream object. 
+File2
